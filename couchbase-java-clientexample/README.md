@@ -1,1 +1,1 @@
-Try on simple java app using rx
+Trying simple java app using rx
